@@ -10,8 +10,7 @@ conhecimentos na linguagem C++.
 
 ## Progresso
 
-Em constante aprendizado e evolução.
-Linguagem atualmente usada na faculdade.
+Linguagem usada na faculdade.
 
 ---
 
