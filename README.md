@@ -10,7 +10,7 @@ conhecimentos na linguagem C++.
 
 ## Progresso
 
-Linguagem usada na faculdade.
+Linguagem usada no segundo semestre da faculdade.
 
 ---
 
